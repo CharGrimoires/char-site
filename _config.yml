@@ -102,6 +102,9 @@ bing_site_verification:
 yandex_site_verification:
 naver_site_verification:
 
+# Site Footer
+site_footer: "© 2025 Char!. Powered by ShamRocks"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
